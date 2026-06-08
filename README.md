@@ -183,5 +183,7 @@ Business Analytics
 Dashboard Development
 Model Deployment Concepts
 
+https://tesladelieveriesmlpipelineproject-5qg37sdxjvss2xdtw3mtrl.streamlit.app/
+This is the link to check this project after deployement
 by
 M.Sulakshana
